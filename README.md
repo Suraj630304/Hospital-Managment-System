@@ -16,15 +16,5 @@ Object-Oriented Programming (OOP): Utilized to create scalable and maintainable 
 Java Collection Framework: Employed for managing and manipulating groups of objects efficiently.<br>
 MySQL: Relational database management system used for data storage.<br>
 JDBC (Java Database Connectivity): Provides connectivity between Java applications and the MySQL database.<br>
-Getting Started<br>
-To get a local copy up and running, follow these steps:<br>
-
-Clone the Repository:<br>
-
-bash<br>
-Copy code<br>
-git clone https://github.com/Vijay-Wagh123/hospital-management-system.git<br>
 
 
-Contact<br>
-For questions or feedback, please reach out to vijuwagh33@gmail.com<br>
